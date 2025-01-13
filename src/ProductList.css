@@ -73,7 +73,7 @@ body {
 	border-radius: 5px;
 	text-align: center;
 	position: relative;
-	cursor: pointer;
+	/* cursor: pointer; */
 	gap: 20px;
 }
 
